@@ -60,7 +60,7 @@ class HomeScreen extends Component {
               this.props.navigation.dispatch(navigateAction);
             }}
           >
-          <Text>sd</Text>
+          <Text>跳转RN页面</Text>
           </TouchableOpacity>
       </View>
     );

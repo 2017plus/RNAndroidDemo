@@ -328,3 +328,16 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# Android/IntelliJ
+.idea
+.gradle
+local.properties
+*.iml
+
+#IOS
+Pods/
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
